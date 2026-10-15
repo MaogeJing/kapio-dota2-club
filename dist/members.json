@@ -703,6 +703,77 @@
     },
     {
       "id": "player-11",
+      "name": "罗星",
+      "avatarMainPending": false,
+      "searchNames": [
+        "罗星",
+        "皇",
+        "PanGod"
+      ],
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "winRate": 0.375,
+      "avatar": "assets/power/87d12956ba4968e9.webp",
+      "rankTier": 80,
+      "rankName": "冠绝一世",
+      "rankShort": "冠绝",
+      "leaderboardRank": null,
+      "accounts": [
+        {
+          "label": "大号",
+          "names": [
+            "皇"
+          ],
+          "avatar": "assets/power/87d12956ba4968e9.webp",
+          "rankTier": 80,
+          "rankName": "冠绝一世",
+          "rankShort": "冠绝",
+          "leaderboardRank": null,
+          "rankDataNote": null,
+          "rankImage": "assets/power/immortal-unranked.webp",
+          "rankBadgeKey": "8inactive",
+          "games": 3,
+          "wins": 1,
+          "losses": 2
+        },
+        {
+          "label": "小号",
+          "names": [
+            "PanGod"
+          ],
+          "avatar": "assets/power/32685b1bd05f5149.webp",
+          "rankTier": 72,
+          "rankName": "超凡入圣 2星",
+          "rankShort": "超凡2",
+          "leaderboardRank": null,
+          "rankDataNote": null,
+          "rankImage": "assets/power/rank-72.webp",
+          "rankBadgeKey": "72",
+          "games": 5,
+          "wins": 2,
+          "losses": 3
+        }
+      ],
+      "heroes": [
+        {
+          "name": "矮人直升机",
+          "games": 4,
+          "wins": 2,
+          "image": "assets/power/hero-72.webp",
+          "reason": "飞机4场2胜，累计建筑伤害1632；覆盖两个账号，保留重复使用与完整胜负。"
+        },
+        {
+          "name": "屠夫",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-14.webp",
+          "reason": "大号屠夫一场9/9/33获胜，33助攻是该场明确的参与依据。"
+        }
+      ]
+    },
+    {
+      "id": "player-12",
       "name": "黄小萌",
       "avatarMainPending": false,
       "searchNames": [
@@ -762,7 +833,7 @@
       ]
     },
     {
-      "id": "player-12",
+      "id": "player-13",
       "name": "亚明",
       "avatarMainPending": false,
       "searchNames": [
@@ -811,52 +882,6 @@
           "wins": 1,
           "image": "assets/power/hero-84.webp",
           "reason": "蓝胖2场1胜，完整保留两场胜负，作为本批另一重复使用记录。"
-        }
-      ]
-    },
-    {
-      "id": "player-13",
-      "name": "罗星",
-      "avatarMainPending": false,
-      "searchNames": [
-        "罗星",
-        "PanGod"
-      ],
-      "games": 5,
-      "wins": 2,
-      "losses": 3,
-      "winRate": 0.4,
-      "avatar": "assets/power/32685b1bd05f5149.webp",
-      "rankTier": 72,
-      "rankName": "超凡入圣 2星",
-      "rankShort": "超凡2",
-      "leaderboardRank": null,
-      "accounts": [
-        {
-          "label": "PanGod",
-          "names": [
-            "PanGod"
-          ],
-          "avatar": "assets/power/32685b1bd05f5149.webp",
-          "rankTier": 72,
-          "rankName": "超凡入圣 2星",
-          "rankShort": "超凡2",
-          "leaderboardRank": null,
-          "rankDataNote": null,
-          "rankImage": "assets/power/rank-72.webp",
-          "rankBadgeKey": "72",
-          "games": 5,
-          "wins": 2,
-          "losses": 3
-        }
-      ],
-      "heroes": [
-        {
-          "name": "矮人直升机",
-          "games": 3,
-          "wins": 2,
-          "image": "assets/power/hero-72.webp",
-          "reason": "飞机3场2胜，是本批唯一有胜场的重复选择；累计建筑伤害1632，不据此包装为核心输出。"
         }
       ]
     },
@@ -915,51 +940,6 @@
     },
     {
       "id": "player-15",
-      "name": "皇",
-      "avatarMainPending": false,
-      "searchNames": [
-        "皇"
-      ],
-      "games": 3,
-      "wins": 1,
-      "losses": 2,
-      "winRate": 0.3333333333333333,
-      "avatar": "assets/power/87d12956ba4968e9.webp",
-      "rankTier": 80,
-      "rankName": "冠绝一世",
-      "rankShort": "冠绝",
-      "leaderboardRank": null,
-      "accounts": [
-        {
-          "label": "皇",
-          "names": [
-            "皇"
-          ],
-          "avatar": "assets/power/87d12956ba4968e9.webp",
-          "rankTier": 80,
-          "rankName": "冠绝一世",
-          "rankShort": "冠绝",
-          "leaderboardRank": null,
-          "rankDataNote": null,
-          "rankImage": "assets/power/immortal-unranked.webp",
-          "rankBadgeKey": "8inactive",
-          "games": 3,
-          "wins": 1,
-          "losses": 2
-        }
-      ],
-      "heroes": [
-        {
-          "name": "屠夫",
-          "games": 1,
-          "wins": 1,
-          "image": "assets/power/hero-14.webp",
-          "reason": "屠夫新增胜局9/9/33，33助攻是其三场中唯一胜场的明确贡献。"
-        }
-      ]
-    },
-    {
-      "id": "player-16",
       "name": "东楼",
       "avatarMainPending": false,
       "searchNames": [
@@ -1012,7 +992,7 @@
       ]
     },
     {
-      "id": "player-17",
+      "id": "player-16",
       "name": "晗神",
       "avatarMainPending": false,
       "searchNames": [
@@ -1065,7 +1045,7 @@
       ]
     },
     {
-      "id": "player-18",
+      "id": "player-17",
       "name": "dyq",
       "avatarMainPending": false,
       "searchNames": [
@@ -1117,7 +1097,7 @@
       ]
     },
     {
-      "id": "player-19",
+      "id": "player-18",
       "name": "豪朋友",
       "avatarMainPending": false,
       "searchNames": [
@@ -1163,7 +1143,7 @@
       ]
     },
     {
-      "id": "player-20",
+      "id": "player-19",
       "name": "猫哥",
       "avatarMainPending": false,
       "searchNames": [
