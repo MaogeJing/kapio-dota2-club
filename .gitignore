@@ -1,0 +1,12 @@
+.netlify/
+.env*
+node_modules/
+data/
+config.toml
+*.db
+*.db-*
+*.dem
+*.dpapi
+*.zip
+.DS_Store
+Thumbs.db

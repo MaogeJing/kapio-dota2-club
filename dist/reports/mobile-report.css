@@ -1,0 +1,96 @@
+/* 按手机实际阅读字号排版；高清像素由浏览器导出时生成。 */
+.poster{max-width:430px;padding:24px 18px 20px;font-size:14px;line-height:1.75}
+.poster h1{font-size:32px;line-height:1.3}
+.poster .club{font-size:14px}
+.poster .deck{font-size:12px;line-height:1.8}
+.poster .kicker{font-size:10px;letter-spacing:1px}
+.poster .big-stats b{font-size:32px}
+.poster .big-stats span{font-size:12px}
+.poster .section-title{align-items:baseline;flex-wrap:wrap;margin:22px 0 12px}
+.poster h2{font-size:21px}
+.poster .section-title small{font-size:11px}
+.poster .award{padding:14px}
+.poster .award-title{font-size:12px}
+.poster .award-name{font-size:23px}
+.poster .award .record{font-size:14px}
+.poster .award p{font-size:14px;line-height:1.85}
+.poster .group{padding-left:10px;margin-top:16px}
+.poster .group-label{font-size:14px;line-height:1.7}
+.poster .group-note{font-size:12px;line-height:1.8;margin:4px 0 8px}
+.poster .match-row{padding:12px;margin:8px 0}
+.poster .match-top{font-size:11px;top:15px;right:12px}
+.poster .match-main img{width:46px;height:28px}
+.poster .score{font-size:26px}
+.poster .winner{font-size:12px}
+.poster .match-take{font-size:14px;line-height:1.85;margin-top:7px}
+.poster .match-mvp{font-size:12px;line-height:1.8;margin-top:5px;overflow-wrap:anywhere}
+.poster .bp{padding:13px}
+.poster .bp-head{font-size:18px}
+.poster .bp-person{font-size:13px;line-height:1.8;margin:7px 0}
+.poster .bp-result{font-size:14px;line-height:1.85;margin-top:14px}
+.poster .team-roster{font-size:11px;line-height:1.9}
+.poster .pairs{grid-template-columns:1fr;gap:9px}
+.poster .pair{padding:12px}
+.poster .pair b{font-size:15px}
+.poster .pair .record{font-size:13px;display:inline-block;margin:0 0 0 8px;white-space:normal}
+.poster .pair p{font-size:14px;line-height:1.85;margin-top:6px}
+.poster .members{grid-template-columns:1fr;gap:9px}
+.poster .member{padding:12px}
+.poster .member-head{gap:10px}
+.poster .member-head img{width:34px;height:34px;object-position:50% 25%;flex-shrink:0}
+.poster .member-name{font-size:15px;line-height:1.6}
+.poster .member-record{font-size:12px;line-height:1.7;margin:5px 0;color:#edcd90}
+.poster .member p{font-size:14px;line-height:1.85}
+.poster .member-games{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:7px;margin:10px 0}
+.poster .member-game{min-width:0;text-align:center}
+.poster .member-game-image{height:52px;display:flex;align-items:center;justify-content:center;border:1px solid #ffffff26;border-radius:4px;overflow:hidden;background:#0d141d}
+.poster .member-game img{width:100%;height:100%;object-fit:cover;object-position:50% 28%}
+.poster .member-game.win .member-game-image{border-color:#89c9b299}
+.poster .member-game.loss .member-game-image{border-color:#ed968877}
+.poster .member-game.idle .member-game-image{border-style:dashed}
+.poster .member-game-idle{font-size:18px;font-style:italic;color:#798699;letter-spacing:1px}
+.poster .member-game-label{display:block;font-size:10px;line-height:1.6;color:#9ca8b8;margin-top:3px;white-space:nowrap}
+.poster .member-game.win .member-game-label{color:#89c9b2}
+.poster .member-game.loss .member-game-label{color:#ed9688}
+.poster .closing{font-size:16px;line-height:1.85;margin-top:23px}
+.poster .footer{font-size:11px;line-height:1.9}
+.poster .footer-line{font-size:10px;flex-wrap:wrap}
+.poster .details-link{font-size:13px}
+
+/* BAN 保留小横图；PICK 使用游戏原生竖图，标记与英雄名跟随手机字号。 */
+.draft-compact .draft-team-name{font-size:17px}
+.draft-team-head{position:relative}
+.draft-versus{position:absolute;left:50%;top:11px;transform:translate(-50%,-50%);color:#b8a781;font-size:9px;font-weight:800;line-height:1.4}
+.draft-roster{width:100%;color:#c1cad6;margin-top:5px;display:flex;flex-direction:column;gap:3px}
+.draft-roster-player{font-size:12px;line-height:1.6;overflow-wrap:anywhere}
+.draft-compact .draft-priority{font-size:11px}
+.draft-compact .draft-team-count{font-size:10px}
+.draft-compact .draft-legend{font-size:10px;line-height:1.8}
+.draft-compact .draft-phase-title{font-size:14px}
+.draft-compact .draft-phase-range{font-size:10px}
+.draft-compact .draft-action-label,.draft-compact .draft-action-label span{font-size:10px}
+.draft-pick .draft-image{aspect-ratio:142/188}
+.draft-pick .draft-portrait{object-position:center}
+.draft-pick-cards[style*="--draft-count:1"] .draft-hero,
+.draft-compact .draft-pick-cards[style*="--draft-count:1"] .draft-hero{max-width:58px}
+.draft-compact .draft-caption{font-size:12px;line-height:1.5}
+.draft-compact .draft-ban .draft-caption{font-size:9px;line-height:1.4}
+.draft-compact .draft-pick-rank{font-size:9px;line-height:1.4}
+.draft-compact .draft-order{font-size:10px}
+.draft-compact .draft-ban .draft-order{font-size:8px}
+.draft-compact .draft-last-tag{font-size:9px;padding:2px}
+.draft-compact .draft-phase-note{font-size:13px;line-height:1.85;margin-top:10px}
+
+/* 详版的评论与成绩也保持手机阅读大小。 */
+.capture-page .lead,.capture-page .prose,.capture-page .equipment-note,
+.capture-page .player-comment,.capture-page .mvp .reason,
+.capture-page .moment p{font-size:14px;line-height:1.85}
+.capture-page .identity .name{font-size:15px}
+.capture-page .stat span{font-size:11px}
+.capture-page .stat b{font-size:14px}
+.capture-page .member p{font-size:13px}
+.capture-page .member-name{font-size:14px}
+.capture-page .quality{font-size:11px}
+.capture-page .items .item,.capture-page .items .empty{width:27px;height:22px}
+.capture-page .mvp img,.capture-page .lineup img,.capture-page .player-head img{object-position:50% 25%}
+@media(max-width:370px){.poster{padding-left:15px;padding-right:15px}.poster .pair .record{display:block;margin-left:0}.draft-compact .draft-side-row{column-gap:9px}.draft-compact .draft-caption{font-size:11px}}

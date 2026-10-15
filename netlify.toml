@@ -1,0 +1,6 @@
+[build]
+  publish = "dist"
+
+# 静态内容无构建、无函数、无数据库；先用于免费试玩。
+[build.processing]
+  skip_processing = true

@@ -1,0 +1,341 @@
+{
+  "members": [
+    {
+      "key": "member-01",
+      "name": "润州神",
+      "matchCount": 10,
+      "heroes": [
+        {
+          "name": "斯温",
+          "image": "assets/member-heroes/18.webp",
+          "appearances": 3
+        },
+        {
+          "name": "拉比克",
+          "image": "assets/member-heroes/86.webp",
+          "appearances": 2
+        }
+      ]
+    },
+    {
+      "key": "member-02",
+      "name": "登神",
+      "matchCount": 10,
+      "heroes": [
+        {
+          "name": "敌法师",
+          "image": "assets/member-heroes/1.webp",
+          "appearances": 1
+        },
+        {
+          "name": "血魔",
+          "image": "assets/member-heroes/4.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-03",
+      "name": "徐老师",
+      "matchCount": 9,
+      "heroes": [
+        {
+          "name": "电炎绝手",
+          "image": "assets/member-heroes/128.webp",
+          "appearances": 2
+        },
+        {
+          "name": "雷泽",
+          "image": "assets/member-heroes/15.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-04",
+      "name": "鸡哥",
+      "matchCount": 8,
+      "heroes": [
+        {
+          "name": "邪影芳灵",
+          "image": "assets/member-heroes/119.webp",
+          "appearances": 6
+        },
+        {
+          "name": "宙斯",
+          "image": "assets/member-heroes/22.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-05",
+      "name": "yiki大神",
+      "matchCount": 7,
+      "heroes": [
+        {
+          "name": "祈求者",
+          "image": "assets/member-heroes/74.webp",
+          "appearances": 4
+        },
+        {
+          "name": "卓尔游侠",
+          "image": "assets/member-heroes/6.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-06",
+      "name": "豪哥",
+      "matchCount": 7,
+      "heroes": [
+        {
+          "name": "主宰",
+          "image": "assets/member-heroes/8.webp",
+          "appearances": 1
+        },
+        {
+          "name": "幻影长矛手",
+          "image": "assets/member-heroes/12.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-07",
+      "name": "刘神",
+      "matchCount": 8,
+      "heroes": [
+        {
+          "name": "撼地者",
+          "image": "assets/member-heroes/7.webp",
+          "appearances": 2
+        },
+        {
+          "name": "莉娜",
+          "image": "assets/member-heroes/25.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-08",
+      "name": "亚明",
+      "matchCount": 5,
+      "heroes": [
+        {
+          "name": "巫妖",
+          "image": "assets/member-heroes/31.webp",
+          "appearances": 2
+        },
+        {
+          "name": "食人魔魔法师",
+          "image": "assets/member-heroes/84.webp",
+          "appearances": 2
+        }
+      ]
+    },
+    {
+      "key": "member-09",
+      "name": "明君",
+      "matchCount": 5,
+      "heroes": [
+        {
+          "name": "斧王",
+          "image": "assets/member-heroes/2.webp",
+          "appearances": 2
+        },
+        {
+          "name": "伐木机",
+          "image": "assets/member-heroes/98.webp",
+          "appearances": 2
+        }
+      ]
+    },
+    {
+      "key": "member-10",
+      "name": "圆博",
+      "matchCount": 4,
+      "heroes": [
+        {
+          "name": "虚空假面",
+          "image": "assets/member-heroes/41.webp",
+          "appearances": 1
+        },
+        {
+          "name": "工程师",
+          "image": "assets/member-heroes/105.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-11",
+      "name": "磊子",
+      "matchCount": 3,
+      "heroes": [
+        {
+          "name": "帕吉",
+          "image": "assets/member-heroes/14.webp",
+          "appearances": 1
+        },
+        {
+          "name": "寒冬飞龙",
+          "image": "assets/member-heroes/112.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-12",
+      "name": "小圆博",
+      "matchCount": 3,
+      "heroes": [
+        {
+          "name": "兽王",
+          "image": "assets/member-heroes/38.webp",
+          "appearances": 1
+        },
+        {
+          "name": "酒仙",
+          "image": "assets/member-heroes/78.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-13",
+      "name": "东楼",
+      "matchCount": 3,
+      "heroes": [
+        {
+          "name": "虚空假面",
+          "image": "assets/member-heroes/41.webp",
+          "appearances": 1
+        },
+        {
+          "name": "殁境神蚀者",
+          "image": "assets/member-heroes/76.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-14",
+      "name": "晗神",
+      "matchCount": 3,
+      "heroes": [
+        {
+          "name": "莱恩",
+          "image": "assets/member-heroes/26.webp",
+          "appearances": 1
+        },
+        {
+          "name": "军团指挥官",
+          "image": "assets/member-heroes/104.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-15",
+      "name": "罗星",
+      "matchCount": 3,
+      "heroes": [
+        {
+          "name": "谜团",
+          "image": "assets/member-heroes/33.webp",
+          "appearances": 1
+        },
+        {
+          "name": "暗夜魔王",
+          "image": "assets/member-heroes/60.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-16",
+      "name": "黄小萌",
+      "matchCount": 3,
+      "heroes": [
+        {
+          "name": "帕吉",
+          "image": "assets/member-heroes/14.webp",
+          "appearances": 1
+        },
+        {
+          "name": "沉默术士",
+          "image": "assets/member-heroes/75.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-17",
+      "name": "豪朋友",
+      "matchCount": 2,
+      "heroes": [
+        {
+          "name": "巫妖",
+          "image": "assets/member-heroes/31.webp",
+          "appearances": 1
+        },
+        {
+          "name": "拉比克",
+          "image": "assets/member-heroes/86.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-18",
+      "name": "志豪哥",
+      "matchCount": 2,
+      "heroes": [
+        {
+          "name": "主宰",
+          "image": "assets/member-heroes/8.webp",
+          "appearances": 1
+        },
+        {
+          "name": "末日使者",
+          "image": "assets/member-heroes/69.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-19",
+      "name": "蔡老师",
+      "matchCount": 4,
+      "heroes": [
+        {
+          "name": "瘟疫法师",
+          "image": "assets/member-heroes/36.webp",
+          "appearances": 1
+        },
+        {
+          "name": "末日使者",
+          "image": "assets/member-heroes/69.webp",
+          "appearances": 1
+        }
+      ]
+    },
+    {
+      "key": "member-20",
+      "name": "猫哥",
+      "matchCount": 1,
+      "heroes": [
+        {
+          "name": "远古冰魄",
+          "image": "assets/member-heroes/68.webp",
+          "appearances": 1
+        }
+      ]
+    }
+  ],
+  "period": "2026/10/09—10/13",
+  "matchCount": 10
+}
