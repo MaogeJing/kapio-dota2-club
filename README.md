@@ -12,9 +12,19 @@ python -m http.server 8680 --bind 127.0.0.1 --directory dist
 
 打开 `http://127.0.0.1:8680/`。无需安装依赖或执行构建。
 
-## Netlify
+## Netlify：仅手动部署
 
-在现有 Netlify 项目中连接此仓库，发布分支为 `main`，发布目录为 `dist`，构建命令留空。配置已写入 `netlify.toml`。
+GitHub 用于源码版本管理。为控制免费额度，Netlify 不连接 Git 自动构建，代码提交和推送均不触发部署；不添加 push、定时任务或自动发布工作流。
+
+需要发布时，在仓库目录手动执行：
+
+```sh
+npx netlify-cli deploy --prod --dir dist --no-build --site kapio-dota2
+```
+
+首次使用需运行 `npx netlify-cli login`，在官方网页完成账号授权。登录凭据由 CLI 管理，不写入仓库。发布目录为 `dist`，无需构建，配置见 `netlify.toml`。
+
+本地修改 → 本地核验 → 提交/推送 GitHub → 管理员明确要求发布 → 手动部署。
 
 ## 内容维护
 

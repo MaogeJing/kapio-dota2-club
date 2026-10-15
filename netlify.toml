@@ -1,6 +1,7 @@
 [build]
   publish = "dist"
 
-# 静态内容无构建、无函数、无数据库；先用于免费试玩。
+# 仅手动CLI部署；GitHub推送不触发发布，避免消耗免费额度。
+# 静态内容无构建、无函数、无数据库。
 [build.processing]
   skip_processing = true
