@@ -9,3 +9,5 @@
 @media(min-width:1000px){.members-section .container{max-width:1060px}.power-columns,.power-row{grid-template-columns:minmax(0,1fr) 140px 70px 80px 90px 130px;gap:20px;padding-inline:12px}}
 
 .power-ranks.rank-count-3{gap:0}.rank-count-3 .rank-item{width:44px}.rank-count-3 .rank-emblem{width:44px;height:44px}@media(max-width:900px){.rank-count-3 .rank-item{width:22px}.rank-count-3 .rank-emblem{width:22px;height:22px}.rank-count-3 .rank-caption{font-size:7px;margin-top:0}}@media(max-width:600px){.rank-count-3 .rank-item{width:24px}.rank-count-3 .rank-emblem{width:24px;height:24px}}@media(max-width:359px){.rank-count-3 .rank-item{width:21px}.rank-count-3 .rank-emblem{width:21px;height:21px}}
+
+@media(max-width:600px){.power-id-person{position:relative}.power-id-person .power-name,.share-main .power-id-person .power-name{font-family:Arial,sans-serif;font-size:11px;font-variant-numeric:tabular-nums;letter-spacing:-.2px}.power-id-person .power-hot{position:absolute;left:14px;top:-5px;font-size:10px}}
