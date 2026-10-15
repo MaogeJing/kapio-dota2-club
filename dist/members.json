@@ -1,341 +1,1066 @@
 {
-  "members": [
+  "updatedAt": "2026-10-15",
+  "matchPeriod": "2026/10/09—10/13",
+  "matches": 10,
+  "players": [
     {
-      "key": "member-01",
-      "name": "润州神",
-      "matchCount": 10,
-      "heroes": [
-        {
-          "name": "斯温",
-          "image": "assets/member-heroes/18.webp",
-          "appearances": 3
-        },
-        {
-          "name": "拉比克",
-          "image": "assets/member-heroes/86.webp",
-          "appearances": 2
-        }
-      ]
-    },
-    {
-      "key": "member-02",
+      "id": "player-01",
       "name": "登神",
-      "matchCount": 10,
+      "avatarMainPending": false,
+      "searchNames": [
+        "登神",
+        "Michael Myers"
+      ],
+      "games": 10,
+      "wins": 8,
+      "losses": 2,
+      "winRate": 0.8,
+      "avatar": "assets/power/b423702034b48f2f.webp",
+      "rankTier": 73,
+      "rankName": "超凡入圣 3星",
+      "rankShort": "超凡3",
+      "leaderboardRank": null,
+      "accounts": [
+        {
+          "label": "Michael Myers",
+          "names": [
+            "Michael Myers"
+          ],
+          "avatar": "assets/power/b423702034b48f2f.webp",
+          "rankTier": 73,
+          "rankName": "超凡入圣 3星",
+          "rankShort": "超凡3",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-73.webp",
+          "rankBadgeKey": "73",
+          "games": 10,
+          "wins": 8,
+          "losses": 2
+        }
+      ],
       "heroes": [
         {
-          "name": "敌法师",
-          "image": "assets/member-heroes/1.webp",
-          "appearances": 1
+          "name": "军团指挥官",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-104.webp",
+          "reason": "军团赢下单场，20/4/12，每分钟英雄伤害约1030；本批其单场击杀最多的英雄。"
         },
         {
           "name": "血魔",
-          "image": "assets/member-heroes/4.webp",
-          "appearances": 1
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-4.webp",
+          "reason": "血魔赢下单场，9/4/21，建筑伤害14696，GPM722，兼有输出和推进记录。"
+        },
+        {
+          "name": "敌法师",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-1.webp",
+          "reason": "敌法师赢下单场，7/1/6，汇总KDA13，建筑伤害12377，阵亡仅一次。"
         }
       ]
     },
     {
-      "key": "member-03",
+      "id": "player-02",
+      "name": "润州神",
+      "avatarMainPending": false,
+      "searchNames": [
+        "润州神",
+        "勇敢牛牛"
+      ],
+      "games": 10,
+      "wins": 2,
+      "losses": 8,
+      "winRate": 0.2,
+      "avatar": "assets/power/06471f322a8e2b7d.webp",
+      "rankTier": 53,
+      "rankName": "传奇 3星",
+      "rankShort": "传奇3",
+      "leaderboardRank": null,
+      "accounts": [
+        {
+          "label": "勇敢牛牛",
+          "names": [
+            "勇敢牛牛"
+          ],
+          "avatar": "assets/power/06471f322a8e2b7d.webp",
+          "rankTier": 53,
+          "rankName": "传奇 3星",
+          "rankShort": "传奇3",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-53.webp",
+          "rankBadgeKey": "53",
+          "games": 10,
+          "wins": 2,
+          "losses": 8
+        }
+      ],
+      "heroes": [
+        {
+          "name": "斯温",
+          "games": 3,
+          "wins": 1,
+          "image": "assets/power/hero-18.webp",
+          "reason": "斯温使用3次、1胜2负，汇总21/11/16，场均建筑伤害约4240，是本批其使用最多的英雄。"
+        },
+        {
+          "name": "凤凰",
+          "games": 2,
+          "wins": 1,
+          "image": "assets/power/hero-110.webp",
+          "reason": "凤凰2次1胜1负，汇总12/19/37，兼看重复使用与助攻记录。"
+        },
+        {
+          "name": "巫医",
+          "games": 1,
+          "wins": 0,
+          "image": "assets/power/hero-30.webp",
+          "reason": "巫医单场虽负，仍有9/11/20及5734治疗；作为本批相对亮点保留，不称胜场。"
+        }
+      ]
+    },
+    {
+      "id": "player-03",
       "name": "徐老师",
-      "matchCount": 9,
-      "heroes": [
+      "avatarMainPending": false,
+      "searchNames": [
+        "徐老师",
+        "4ever4Seven",
+        "nini.(C=x+y)"
+      ],
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "winRate": 0.5555555555555556,
+      "avatar": "assets/power/32486b6b730e15d9.webp",
+      "rankTier": 80,
+      "rankName": "冠绝一世",
+      "rankShort": "冠绝",
+      "leaderboardRank": 4016,
+      "accounts": [
         {
-          "name": "电炎绝手",
-          "image": "assets/member-heroes/128.webp",
-          "appearances": 2
+          "label": "大号",
+          "names": [
+            "4ever4Seven"
+          ],
+          "avatar": "assets/power/32486b6b730e15d9.webp",
+          "rankTier": 80,
+          "rankName": "冠绝一世",
+          "rankShort": "冠绝",
+          "leaderboardRank": 4016,
+          "rankImage": "assets/power/immortal-top5000.webp",
+          "rankBadgeKey": "8a",
+          "games": 8,
+          "wins": 4,
+          "losses": 4
         },
         {
-          "name": "雷泽",
-          "image": "assets/member-heroes/15.webp",
-          "appearances": 1
+          "label": "小号",
+          "names": [
+            "nini.(C=x+y)"
+          ],
+          "avatar": "assets/power/cce1da98d042b2ba.webp",
+          "rankTier": 72,
+          "rankName": "超凡入圣 2星",
+          "rankShort": "超凡2",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-72.webp",
+          "rankBadgeKey": "72",
+          "games": 1,
+          "wins": 1,
+          "losses": 0
+        }
+      ],
+      "heroes": [
+        {
+          "name": "火女",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-25.webp",
+          "reason": "火女赢下单场，24/4/14，每分钟英雄伤害约1415，建筑伤害6030。"
+        },
+        {
+          "name": "齐天大圣",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-114.webp",
+          "reason": "齐天大圣赢下单场，19/3/19，汇总KDA约12.67。"
+        },
+        {
+          "name": "帕格纳",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-45.webp",
+          "reason": "帕格纳赢下单场，9/4/20，建筑伤害8387；来自已合并的小号记录。"
         }
       ]
     },
     {
-      "key": "member-04",
-      "name": "鸡哥",
-      "matchCount": 8,
-      "heroes": [
-        {
-          "name": "邪影芳灵",
-          "image": "assets/member-heroes/119.webp",
-          "appearances": 6
-        },
-        {
-          "name": "宙斯",
-          "image": "assets/member-heroes/22.webp",
-          "appearances": 1
-        }
-      ]
-    },
-    {
-      "key": "member-05",
-      "name": "yiki大神",
-      "matchCount": 7,
-      "heroes": [
-        {
-          "name": "祈求者",
-          "image": "assets/member-heroes/74.webp",
-          "appearances": 4
-        },
-        {
-          "name": "卓尔游侠",
-          "image": "assets/member-heroes/6.webp",
-          "appearances": 1
-        }
-      ]
-    },
-    {
-      "key": "member-06",
+      "id": "player-04",
       "name": "豪哥",
-      "matchCount": 7,
-      "heroes": [
+      "avatarMainPending": true,
+      "searchNames": [
+        "豪哥",
+        "志豪哥",
+        "她开着邻居家的Toyota",
+        "AMS",
+        "不怪她"
+      ],
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "winRate": 0.4444444444444444,
+      "avatar": "assets/power/4637bdf5e60d1658.webp",
+      "rankTier": 73,
+      "rankName": "超凡入圣 3星",
+      "rankShort": "超凡3",
+      "leaderboardRank": null,
+      "accounts": [
         {
-          "name": "主宰",
-          "image": "assets/member-heroes/8.webp",
-          "appearances": 1
+          "label": "AMS / 不怪她",
+          "names": [
+            "AMS",
+            "不怪她"
+          ],
+          "avatar": "assets/power/4637bdf5e60d1658.webp",
+          "rankTier": 73,
+          "rankName": "超凡入圣 3星",
+          "rankShort": "超凡3",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-73.webp",
+          "rankBadgeKey": "73",
+          "games": 7,
+          "wins": 3,
+          "losses": 4
         },
         {
-          "name": "幻影长矛手",
-          "image": "assets/member-heroes/12.webp",
-          "appearances": 1
+          "label": "她开着邻居家的Toyota",
+          "names": [
+            "她开着邻居家的Toyota"
+          ],
+          "avatar": "assets/power/ff111b72855fc747.webp",
+          "rankTier": 53,
+          "rankName": "传奇 3星",
+          "rankShort": "传奇3",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-53.webp",
+          "rankBadgeKey": "53",
+          "games": 2,
+          "wins": 1,
+          "losses": 1
+        }
+      ],
+      "heroes": [
+        {
+          "name": "风暴之灵",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-17.webp",
+          "reason": "蓝猫赢下单场，8/3/11，汇总KDA约6.33。"
+        },
+        {
+          "name": "巨魔战将",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-95.webp",
+          "reason": "巨魔赢下单场，6/3/16，汇总KDA约7.33。"
+        },
+        {
+          "name": "斯温",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-18.webp",
+          "reason": "斯温赢下单场，11/9/19，建筑伤害8919、GPM666，保留推进表现。"
         }
       ]
     },
     {
-      "key": "member-07",
+      "id": "player-05",
+      "name": "鸡哥",
+      "avatarMainPending": false,
+      "searchNames": [
+        "鸡哥",
+        "王鹤没有棣"
+      ],
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "winRate": 0.625,
+      "avatar": "assets/power/30efe675e2a8932d.webp",
+      "rankTier": 72,
+      "rankName": "超凡入圣 2星",
+      "rankShort": "超凡2",
+      "leaderboardRank": null,
+      "accounts": [
+        {
+          "label": "王鹤没有棣",
+          "names": [
+            "王鹤没有棣"
+          ],
+          "avatar": "assets/power/30efe675e2a8932d.webp",
+          "rankTier": 72,
+          "rankName": "超凡入圣 2星",
+          "rankShort": "超凡2",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-72.webp",
+          "rankBadgeKey": "72",
+          "games": 8,
+          "wins": 5,
+          "losses": 3
+        }
+      ],
+      "heroes": [
+        {
+          "name": "小仙女",
+          "games": 6,
+          "wins": 4,
+          "image": "assets/power/hero-119.webp",
+          "reason": "小仙女6次4胜2负，占个人8场的75%，是本批最明确的重复使用组合。"
+        },
+        {
+          "name": "钢背兽",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-99.webp",
+          "reason": "钢背兽赢下单场，9/11/27，建筑伤害6759，每分钟英雄伤害约850。"
+        }
+      ]
+    },
+    {
+      "id": "player-06",
       "name": "刘神",
-      "matchCount": 8,
-      "heroes": [
+      "avatarMainPending": true,
+      "searchNames": [
+        "刘神",
+        "缩小我的身体握住在你手里",
+        "双相狂欢"
+      ],
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "winRate": 0.625,
+      "avatar": "assets/power/75ca3cb2578afbc3.webp",
+      "rankTier": 80,
+      "rankName": "冠绝一世",
+      "rankShort": "冠绝",
+      "leaderboardRank": 539,
+      "accounts": [
         {
-          "name": "撼地者",
-          "image": "assets/member-heroes/7.webp",
-          "appearances": 2
+          "label": "缩小我的身体握住在你手里",
+          "names": [
+            "缩小我的身体握住在你手里"
+          ],
+          "avatar": "assets/power/75ca3cb2578afbc3.webp",
+          "rankTier": 80,
+          "rankName": "冠绝一世",
+          "rankShort": "冠绝",
+          "leaderboardRank": 539,
+          "rankImage": "assets/power/immortal-top5000.webp",
+          "rankBadgeKey": "8a",
+          "games": 6,
+          "wins": 4,
+          "losses": 2
         },
         {
-          "name": "莉娜",
-          "image": "assets/member-heroes/25.webp",
-          "appearances": 1
+          "label": "双相狂欢",
+          "names": [
+            "双相狂欢"
+          ],
+          "avatar": "assets/power/ef37bdfefddf8098.webp",
+          "rankTier": 80,
+          "rankName": "冠绝一世",
+          "rankShort": "冠绝",
+          "leaderboardRank": 4504,
+          "rankImage": "assets/power/immortal-top5000.webp",
+          "rankBadgeKey": "8a",
+          "games": 2,
+          "wins": 1,
+          "losses": 1
+        }
+      ],
+      "heroes": [
+        {
+          "name": "火女",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-25.webp",
+          "reason": "火女赢下单场，28/3/21，GPM881，每分钟英雄伤害约1569。"
+        },
+        {
+          "name": "蝙蝠骑士",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-65.webp",
+          "reason": "蝙蝠赢下单场，13/3/19，汇总KDA约10.67；对应已制作冰魂配合片段的比赛。"
+        },
+        {
+          "name": "干扰者",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-87.webp",
+          "reason": "干扰者赢下单场，7/5/38，38助攻；以助攻贡献保留代表位。"
         }
       ]
     },
     {
-      "key": "member-08",
-      "name": "亚明",
-      "matchCount": 5,
-      "heroes": [
-        {
-          "name": "巫妖",
-          "image": "assets/member-heroes/31.webp",
-          "appearances": 2
-        },
-        {
-          "name": "食人魔魔法师",
-          "image": "assets/member-heroes/84.webp",
-          "appearances": 2
-        }
-      ]
-    },
-    {
-      "key": "member-09",
-      "name": "明君",
-      "matchCount": 5,
-      "heroes": [
-        {
-          "name": "斧王",
-          "image": "assets/member-heroes/2.webp",
-          "appearances": 2
-        },
-        {
-          "name": "伐木机",
-          "image": "assets/member-heroes/98.webp",
-          "appearances": 2
-        }
-      ]
-    },
-    {
-      "key": "member-10",
+      "id": "player-07",
       "name": "圆博",
-      "matchCount": 4,
+      "avatarMainPending": false,
+      "searchNames": [
+        "圆博",
+        "小圆博",
+        "THX.",
+        "王源"
+      ],
+      "games": 7,
+      "wins": 5,
+      "losses": 2,
+      "winRate": 0.7142857142857143,
+      "avatar": "assets/power/3a884b1d52d18e5d.webp",
+      "rankTier": 63,
+      "rankName": "万古流芳 3星",
+      "rankShort": "万古3",
+      "leaderboardRank": null,
+      "accounts": [
+        {
+          "label": "THX.",
+          "names": [
+            "THX."
+          ],
+          "avatar": "assets/power/3a884b1d52d18e5d.webp",
+          "rankTier": 63,
+          "rankName": "万古流芳 3星",
+          "rankShort": "万古3",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-63.webp",
+          "rankBadgeKey": "63",
+          "games": 4,
+          "wins": 3,
+          "losses": 1
+        },
+        {
+          "label": "王源",
+          "names": [
+            "王源"
+          ],
+          "avatar": "assets/power/8e69838614184d95.webp",
+          "rankTier": 54,
+          "rankName": "传奇 4星",
+          "rankShort": "传奇4",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-54.webp",
+          "rankBadgeKey": "54",
+          "games": 3,
+          "wins": 2,
+          "losses": 1
+        }
+      ],
       "heroes": [
         {
-          "name": "虚空假面",
-          "image": "assets/member-heroes/41.webp",
-          "appearances": 1
+          "name": "獸",
+          "games": 2,
+          "wins": 2,
+          "image": "assets/power/hero-137.webp",
+          "reason": "獸在两个账号共使用2次，两战全胜，汇总19/11/54，汇总KDA约6.64。"
         },
         {
           "name": "工程师",
-          "image": "assets/member-heroes/105.webp",
-          "appearances": 1
-        }
-      ]
-    },
-    {
-      "key": "member-11",
-      "name": "磊子",
-      "matchCount": 3,
-      "heroes": [
-        {
-          "name": "帕吉",
-          "image": "assets/member-heroes/14.webp",
-          "appearances": 1
-        },
-        {
-          "name": "寒冬飞龙",
-          "image": "assets/member-heroes/112.webp",
-          "appearances": 1
-        }
-      ]
-    },
-    {
-      "key": "member-12",
-      "name": "小圆博",
-      "matchCount": 3,
-      "heroes": [
-        {
-          "name": "兽王",
-          "image": "assets/member-heroes/38.webp",
-          "appearances": 1
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-105.webp",
+          "reason": "工程师赢下单场，19/7/21，每分钟英雄伤害约1312。"
         },
         {
           "name": "酒仙",
-          "image": "assets/member-heroes/78.webp",
-          "appearances": 1
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-78.webp",
+          "reason": "酒仙赢下单场，9/4/13，汇总KDA5.5，保留合并后另一获胜英雄。"
         }
       ]
     },
     {
-      "key": "member-13",
-      "name": "东楼",
-      "matchCount": 3,
+      "id": "player-08",
+      "name": "yiki大神",
+      "avatarMainPending": false,
+      "searchNames": [
+        "yiki大神",
+        "Yiki"
+      ],
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "winRate": 0.5714285714285714,
+      "avatar": "assets/power/20a67c2b9a116ae9.webp",
+      "rankTier": 64,
+      "rankName": "万古流芳 4星",
+      "rankShort": "万古4",
+      "leaderboardRank": null,
+      "accounts": [
+        {
+          "label": "Yiki",
+          "names": [
+            "Yiki"
+          ],
+          "avatar": "assets/power/20a67c2b9a116ae9.webp",
+          "rankTier": 64,
+          "rankName": "万古流芳 4星",
+          "rankShort": "万古4",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-64.webp",
+          "rankBadgeKey": "64",
+          "games": 7,
+          "wins": 4,
+          "losses": 3
+        }
+      ],
       "heroes": [
         {
-          "name": "虚空假面",
-          "image": "assets/member-heroes/41.webp",
-          "appearances": 1
+          "name": "祈求者",
+          "games": 4,
+          "wins": 2,
+          "image": "assets/power/hero-74.webp",
+          "reason": "卡尔4次2胜2负，是本批其使用最多的英雄；保留频次与五五开的战绩。"
         },
         {
-          "name": "殁境神蚀者",
-          "image": "assets/member-heroes/76.webp",
-          "appearances": 1
+          "name": "卓尔游侠",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-6.webp",
+          "reason": "小黑赢下单场，10/4/16，建筑伤害5637。"
+        },
+        {
+          "name": "米拉娜",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-9.webp",
+          "reason": "米拉娜赢下单场，10/12/25，保留其本批另一获胜英雄的实际参战记录。"
         }
       ]
     },
     {
-      "key": "member-14",
-      "name": "晗神",
-      "matchCount": 3,
-      "heroes": [
+      "id": "player-09",
+      "name": "亚明",
+      "avatarMainPending": false,
+      "searchNames": [
+        "亚明",
+        "噗噗猪"
+      ],
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "winRate": 0.4,
+      "avatar": "assets/power/84b801084a58d283.webp",
+      "rankTier": 51,
+      "rankName": "传奇 1星",
+      "rankShort": "传奇1",
+      "leaderboardRank": null,
+      "accounts": [
         {
-          "name": "莱恩",
-          "image": "assets/member-heroes/26.webp",
-          "appearances": 1
-        },
-        {
-          "name": "军团指挥官",
-          "image": "assets/member-heroes/104.webp",
-          "appearances": 1
+          "label": "噗噗猪",
+          "names": [
+            "噗噗猪"
+          ],
+          "avatar": "assets/power/84b801084a58d283.webp",
+          "rankTier": 51,
+          "rankName": "传奇 1星",
+          "rankShort": "传奇1",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-51.webp",
+          "rankBadgeKey": "51",
+          "games": 5,
+          "wins": 2,
+          "losses": 3
         }
-      ]
-    },
-    {
-      "key": "member-15",
-      "name": "罗星",
-      "matchCount": 3,
-      "heroes": [
-        {
-          "name": "谜团",
-          "image": "assets/member-heroes/33.webp",
-          "appearances": 1
-        },
-        {
-          "name": "暗夜魔王",
-          "image": "assets/member-heroes/60.webp",
-          "appearances": 1
-        }
-      ]
-    },
-    {
-      "key": "member-16",
-      "name": "黄小萌",
-      "matchCount": 3,
-      "heroes": [
-        {
-          "name": "帕吉",
-          "image": "assets/member-heroes/14.webp",
-          "appearances": 1
-        },
-        {
-          "name": "沉默术士",
-          "image": "assets/member-heroes/75.webp",
-          "appearances": 1
-        }
-      ]
-    },
-    {
-      "key": "member-17",
-      "name": "豪朋友",
-      "matchCount": 2,
+      ],
       "heroes": [
         {
           "name": "巫妖",
-          "image": "assets/member-heroes/31.webp",
-          "appearances": 1
+          "games": 2,
+          "wins": 1,
+          "image": "assets/power/hero-31.webp",
+          "reason": "巫妖2次1胜1负，汇总4/21/41，优先看重复使用与助攻，不只看击杀。"
         },
         {
-          "name": "拉比克",
-          "image": "assets/member-heroes/86.webp",
-          "appearances": 1
+          "name": "食人魔魔法师",
+          "games": 2,
+          "wins": 1,
+          "image": "assets/power/hero-84.webp",
+          "reason": "食人魔2次1胜1负，汇总4/19/22，是其另一重复使用英雄。"
         }
       ]
     },
     {
-      "key": "member-18",
-      "name": "志豪哥",
-      "matchCount": 2,
+      "id": "player-10",
+      "name": "明君",
+      "avatarMainPending": false,
+      "searchNames": [
+        "明君",
+        "ATM33"
+      ],
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "winRate": 0.4,
+      "avatar": "assets/power/4637bdf5e60d1658.webp",
+      "rankTier": 74,
+      "rankName": "超凡入圣 4星",
+      "rankShort": "超凡4",
+      "leaderboardRank": null,
+      "accounts": [
+        {
+          "label": "ATM33",
+          "names": [
+            "ATM33"
+          ],
+          "avatar": "assets/power/4637bdf5e60d1658.webp",
+          "rankTier": 74,
+          "rankName": "超凡入圣 4星",
+          "rankShort": "超凡4",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-74.webp",
+          "rankBadgeKey": "74",
+          "games": 5,
+          "wins": 2,
+          "losses": 3
+        }
+      ],
       "heroes": [
         {
-          "name": "主宰",
-          "image": "assets/member-heroes/8.webp",
-          "appearances": 1
-        },
-        {
-          "name": "末日使者",
-          "image": "assets/member-heroes/69.webp",
-          "appearances": 1
+          "name": "斧王",
+          "games": 2,
+          "wins": 2,
+          "image": "assets/power/hero-2.webp",
+          "reason": "斧王2次2胜，汇总41/10/45、KDA8.60；本批其表现明显更好的英雄，未强凑其他名额。"
         }
       ]
     },
     {
-      "key": "member-19",
+      "id": "player-11",
       "name": "蔡老师",
-      "matchCount": 4,
+      "avatarMainPending": false,
+      "searchNames": [
+        "蔡老师",
+        "旋风冲锋龙卷风",
+        "太恶心了受不了了"
+      ],
+      "games": 4,
+      "wins": 2,
+      "losses": 2,
+      "winRate": 0.5,
+      "avatar": "assets/power/039fc4480c8a6882.webp",
+      "rankTier": 80,
+      "rankName": "冠绝一世",
+      "rankShort": "冠绝",
+      "leaderboardRank": 2124,
+      "accounts": [
+        {
+          "label": "大号",
+          "names": [
+            "太恶心了受不了了"
+          ],
+          "avatar": "assets/power/039fc4480c8a6882.webp",
+          "rankTier": 80,
+          "rankName": "冠绝一世",
+          "rankShort": "冠绝",
+          "leaderboardRank": 2124,
+          "rankImage": "assets/power/immortal-top5000.webp",
+          "rankBadgeKey": "8a",
+          "games": 2,
+          "wins": 1,
+          "losses": 1
+        },
+        {
+          "label": "小号",
+          "names": [
+            "旋风冲锋龙卷风"
+          ],
+          "avatar": "assets/power/186198b7d588d7d2.webp",
+          "rankTier": null,
+          "rankName": "暂无公开段位",
+          "rankShort": "暂无数据",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/unranked.webp",
+          "rankBadgeKey": "0",
+          "games": 2,
+          "wins": 1,
+          "losses": 1
+        }
+      ],
       "heroes": [
         {
           "name": "瘟疫法师",
-          "image": "assets/member-heroes/36.webp",
-          "appearances": 1
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-36.webp",
+          "reason": "瘟疫法师赢下单场，14/2/12，GPM808、KDA13。"
         },
         {
           "name": "末日使者",
-          "image": "assets/member-heroes/69.webp",
-          "appearances": 1
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-69.webp",
+          "reason": "末日使者赢下单场，13/7/15，建筑伤害3083。"
         }
       ]
     },
     {
-      "key": "member-20",
+      "id": "player-12",
+      "name": "磊子",
+      "avatarMainPending": false,
+      "searchNames": [
+        "磊子",
+        "超威"
+      ],
+      "games": 3,
+      "wins": 2,
+      "losses": 1,
+      "winRate": 0.6666666666666666,
+      "avatar": "assets/power/71b7a763a51811ce.webp",
+      "rankTier": 73,
+      "rankName": "超凡入圣 3星",
+      "rankShort": "超凡3",
+      "leaderboardRank": null,
+      "accounts": [
+        {
+          "label": "超威",
+          "names": [
+            "超威"
+          ],
+          "avatar": "assets/power/71b7a763a51811ce.webp",
+          "rankTier": 73,
+          "rankName": "超凡入圣 3星",
+          "rankShort": "超凡3",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-73.webp",
+          "rankBadgeKey": "73",
+          "games": 3,
+          "wins": 2,
+          "losses": 1
+        }
+      ],
+      "heroes": [
+        {
+          "name": "寒冬飞龙",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-112.webp",
+          "reason": "寒冬飞龙赢下单场，8/9/29，治疗13172，以助攻与治疗记录入选。"
+        },
+        {
+          "name": "屠夫",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-14.webp",
+          "reason": "屠夫赢下单场，8/10/17，是其本批另一获胜英雄。"
+        }
+      ]
+    },
+    {
+      "id": "player-13",
+      "name": "黄小萌",
+      "avatarMainPending": false,
+      "searchNames": [
+        "黄小萌",
+        "。"
+      ],
+      "games": 3,
+      "wins": 2,
+      "losses": 1,
+      "winRate": 0.6666666666666666,
+      "avatar": "assets/power/b69e08ddf85ee13d.webp",
+      "rankTier": 44,
+      "rankName": "统帅 4星",
+      "rankShort": "统帅4",
+      "leaderboardRank": null,
+      "accounts": [
+        {
+          "label": "。",
+          "names": [
+            "。"
+          ],
+          "avatar": "assets/power/b69e08ddf85ee13d.webp",
+          "rankTier": 44,
+          "rankName": "统帅 4星",
+          "rankShort": "统帅4",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-44.webp",
+          "rankBadgeKey": "44",
+          "games": 3,
+          "wins": 2,
+          "losses": 1
+        }
+      ],
+      "heroes": [
+        {
+          "name": "沉默术士",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-75.webp",
+          "reason": "沉默术士赢下单场，7/6/28，汇总KDA约5.83。"
+        },
+        {
+          "name": "屠夫",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-14.webp",
+          "reason": "屠夫赢下单场，8/10/33，每分钟英雄伤害约864，保留其助攻与输出记录。"
+        }
+      ]
+    },
+    {
+      "id": "player-14",
+      "name": "东楼",
+      "avatarMainPending": false,
+      "searchNames": [
+        "东楼",
+        "东楼凌风"
+      ],
+      "games": 3,
+      "wins": 0,
+      "losses": 3,
+      "winRate": 0.0,
+      "avatar": "assets/power/bce09f414ffed1df.webp",
+      "rankTier": 54,
+      "rankName": "传奇 4星",
+      "rankShort": "传奇4",
+      "leaderboardRank": null,
+      "accounts": [
+        {
+          "label": "东楼凌风",
+          "names": [
+            "东楼凌风"
+          ],
+          "avatar": "assets/power/bce09f414ffed1df.webp",
+          "rankTier": 54,
+          "rankName": "传奇 4星",
+          "rankShort": "传奇4",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-54.webp",
+          "rankBadgeKey": "54",
+          "games": 3,
+          "wins": 0,
+          "losses": 3
+        }
+      ],
+      "heroes": [
+        {
+          "name": "斯拉克",
+          "games": 1,
+          "wins": 0,
+          "image": "assets/power/hero-93.webp",
+          "reason": "本批三场均负；小鱼人单场8/12/8、建筑伤害3355，在其本批英雄中推进数据相对突出。"
+        },
+        {
+          "name": "黑鸟",
+          "games": 1,
+          "wins": 0,
+          "image": "assets/power/hero-76.webp",
+          "reason": "黑鸟单场5/9/3、每分钟英雄伤害约645；仅表示本批个人相对亮点，不改写败局。"
+        }
+      ]
+    },
+    {
+      "id": "player-15",
+      "name": "晗神",
+      "avatarMainPending": false,
+      "searchNames": [
+        "晗神",
+        "YourKing"
+      ],
+      "games": 3,
+      "wins": 0,
+      "losses": 3,
+      "winRate": 0.0,
+      "avatar": "assets/power/b4f07753015ed42e.webp",
+      "rankTier": 72,
+      "rankName": "超凡入圣 2星",
+      "rankShort": "超凡2",
+      "leaderboardRank": null,
+      "accounts": [
+        {
+          "label": "YourKing",
+          "names": [
+            "YourKing"
+          ],
+          "avatar": "assets/power/b4f07753015ed42e.webp",
+          "rankTier": 72,
+          "rankName": "超凡入圣 2星",
+          "rankShort": "超凡2",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-72.webp",
+          "rankBadgeKey": "72",
+          "games": 3,
+          "wins": 0,
+          "losses": 3
+        }
+      ],
+      "heroes": [
+        {
+          "name": "破晓辰星",
+          "games": 1,
+          "wins": 0,
+          "image": "assets/power/hero-135.webp",
+          "reason": "破晓辰星单场7/10/14，每分钟英雄伤害约917、治疗6048，在其本批三场中较突出。"
+        },
+        {
+          "name": "莱恩",
+          "games": 1,
+          "wins": 0,
+          "image": "assets/power/hero-26.webp",
+          "reason": "莱恩单场7/7/7，作为本批个人的另一代表记录；该场仍为败局。"
+        }
+      ]
+    },
+    {
+      "id": "player-16",
+      "name": "罗星",
+      "avatarMainPending": false,
+      "searchNames": [
+        "罗星",
+        "PanGod"
+      ],
+      "games": 3,
+      "wins": 0,
+      "losses": 3,
+      "winRate": 0.0,
+      "avatar": "assets/power/32685b1bd05f5149.webp",
+      "rankTier": 72,
+      "rankName": "超凡入圣 2星",
+      "rankShort": "超凡2",
+      "leaderboardRank": null,
+      "accounts": [
+        {
+          "label": "PanGod",
+          "names": [
+            "PanGod"
+          ],
+          "avatar": "assets/power/32685b1bd05f5149.webp",
+          "rankTier": 72,
+          "rankName": "超凡入圣 2星",
+          "rankShort": "超凡2",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-72.webp",
+          "rankBadgeKey": "72",
+          "games": 3,
+          "wins": 0,
+          "losses": 3
+        }
+      ],
+      "heroes": [
+        {
+          "name": "暗夜魔王",
+          "games": 1,
+          "wins": 0,
+          "image": "assets/power/hero-60.webp",
+          "reason": "夜魔单场13/11/13、每分钟英雄伤害约688，在其本批三场中击杀与输出相对更好。"
+        },
+        {
+          "name": "矮人直升机",
+          "games": 1,
+          "wins": 0,
+          "image": "assets/power/hero-72.webp",
+          "reason": "飞机单场6/15/12、每分钟英雄伤害约594；作为本批相对代表，保留败局事实。"
+        }
+      ]
+    },
+    {
+      "id": "player-17",
+      "name": "豪朋友",
+      "avatarMainPending": false,
+      "searchNames": [
+        "豪朋友",
+        "唤水剑"
+      ],
+      "games": 2,
+      "wins": 1,
+      "losses": 1,
+      "winRate": 0.5,
+      "avatar": "assets/power/a66303f268b9fe0f.webp",
+      "rankTier": 71,
+      "rankName": "超凡入圣 1星",
+      "rankShort": "超凡1",
+      "leaderboardRank": null,
+      "accounts": [
+        {
+          "label": "唤水剑",
+          "names": [
+            "唤水剑"
+          ],
+          "avatar": "assets/power/a66303f268b9fe0f.webp",
+          "rankTier": 71,
+          "rankName": "超凡入圣 1星",
+          "rankShort": "超凡1",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-71.webp",
+          "rankBadgeKey": "71",
+          "games": 2,
+          "wins": 1,
+          "losses": 1
+        }
+      ],
+      "heroes": [
+        {
+          "name": "巫妖",
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-31.webp",
+          "reason": "巫妖赢下单场，5/3/21，汇总KDA约8.67。"
+        }
+      ]
+    },
+    {
+      "id": "player-18",
       "name": "猫哥",
-      "matchCount": 1,
+      "avatarMainPending": false,
+      "searchNames": [
+        "猫哥",
+        "maoge"
+      ],
+      "games": 1,
+      "wins": 1,
+      "losses": 0,
+      "winRate": 1.0,
+      "avatar": "assets/power/0cff50bd7bb87c24.webp",
+      "rankTier": 45,
+      "rankName": "统帅 5星",
+      "rankShort": "统帅5",
+      "leaderboardRank": null,
+      "accounts": [
+        {
+          "label": "maoge",
+          "names": [
+            "maoge"
+          ],
+          "avatar": "assets/power/0cff50bd7bb87c24.webp",
+          "rankTier": 45,
+          "rankName": "统帅 5星",
+          "rankShort": "统帅5",
+          "leaderboardRank": null,
+          "rankImage": "assets/power/rank-45.webp",
+          "rankBadgeKey": "45",
+          "games": 1,
+          "wins": 1,
+          "losses": 0
+        }
+      ],
       "heroes": [
         {
           "name": "远古冰魄",
-          "image": "assets/member-heroes/68.webp",
-          "appearances": 1
+          "games": 1,
+          "wins": 1,
+          "image": "assets/power/hero-68.webp",
+          "reason": "本批仅一场冰魂，获胜且6/4/25；保留次数1，不将其描述为多场验证。"
         }
       ]
     }
   ],
-  "period": "2026/10/09—10/13",
-  "matchCount": 10
+  "accounts": 23,
+  "rankAvailableAccounts": 22,
+  "leaderboardAccounts": 4,
+  "displayPolicy": "头像优先使用登记大号；豪哥、刘神的大号待确认，暂用本批出场较多账号。全部账号原生段位徽章并排展示，详情可查看各号昵称与排名。",
+  "rankSource": "OpenDota · 2026/10/15查询，源站更新时间未知，可能滞后。",
+  "sortPolicy": "默认按上桌次数降序，再按胜率降序；1至2场样本同榜。"
 }

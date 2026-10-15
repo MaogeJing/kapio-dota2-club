@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 72" role="img" aria-label="戴绿帽的小乌龟">
+  <g stroke="#254d31" stroke-width="2" stroke-linejoin="round">
+    <path d="M16 49 6 46l5 11 10-1" fill="#9fbe70"/>
+    <path d="m23 56-4 10q8 3 14-6m14-4 3 10q10 1 12-4l-7-9" fill="#a5c47a"/>
+    <path d="M19 46q17-16 40-2l7 10q-25 12-46 0Z" fill="#adc77d"/>
+    <path d="M14 49C14 18 57 17 62 48q-23 17-48 1Z" fill="#4f9459"/>
+    <path d="m28 30 15-2 10 11-6 15-16 3-11-13Zm0 0 4 13 15 11m-27-10 12-1 21-4" fill="none" stroke="#244f36"/>
+    <path d="M56 48q-6-17 6-21 14-6 16 10 0 11-14 13Z" fill="#b5cc85"/>
+    <path d="M52 27q-2-16 12-18 13 0 13 17l-12 3Z" fill="#58d23c"/>
+    <path d="M51 26q13-5 27 0l1 4q-15 6-28 0Z" fill="#34952e"/>
+    <path d="M64 10q-6 6-4 15" fill="none" stroke="#b3f478"/>
+    <path d="M73 43q-4 3-7 0" fill="none" stroke-linecap="round"/>
+  </g>
+  <ellipse cx="71" cy="36" rx="2.3" ry="3" fill="#142a22"/>
+  <circle cx="71.7" cy="35" r=".8" fill="#fff"/>
+</svg>

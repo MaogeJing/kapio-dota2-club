@@ -59,11 +59,25 @@ document.querySelectorAll('dialog').forEach(dialog => {
 });
 
 const memberSearch = document.querySelector('#member-search');
+const memberSort = document.querySelector('#member-sort');
+const memberBoard = document.querySelector('.members-grid');
 const memberCards = [...document.querySelectorAll('.member-card')];
-memberSearch.addEventListener('input', () => {
+function updateMembers() {
   const query = memberSearch.value.trim().toLocaleLowerCase();
+  const mode = memberSort.value;
+  const sorted = [...memberCards].sort((a,b) => {
+    if(mode === 'rank') return Number(b.dataset.rank)-Number(a.dataset.rank) || Number(b.dataset.games)-Number(a.dataset.games);
+    if(mode === 'rate') return Number(b.dataset.rate)-Number(a.dataset.rate) || Number(b.dataset.games)-Number(a.dataset.games);
+    return Number(b.dataset.games)-Number(a.dataset.games) || Number(b.dataset.rate)-Number(a.dataset.rate);
+  });
   let shown = 0;
-  memberCards.forEach(card => { card.hidden = !card.dataset.memberName.toLocaleLowerCase().includes(query); if (!card.hidden) shown++; });
-  document.querySelector('#members-count').textContent = query ? `找到 ${shown} 位朋友` : `${memberCards.length} 位朋友 · 10 场对黑的共同记忆`;
+  sorted.forEach(card => {
+    card.hidden = !card.dataset.memberName.toLocaleLowerCase().includes(query);
+    if(!card.hidden) shown++;
+    memberBoard.appendChild(card);
+  });
+  document.querySelector('#members-count').textContent = query ? `找到 ${shown} 位玩家` : `${memberCards.length}位玩家 · 点击一行，展开各号段位与英雄依据`;
   document.querySelector('.members-empty').hidden = shown !== 0;
-});
+}
+memberSearch.addEventListener('input',updateMembers);
+memberSort.addEventListener('change',updateMembers);
