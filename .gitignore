@@ -8,5 +8,6 @@ config.toml
 *.dem
 *.dpapi
 *.zip
+!dist/weekly/*/share/kapio-weekly-roast-4-images.zip
 .DS_Store
 Thumbs.db
