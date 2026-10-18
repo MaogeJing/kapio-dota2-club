@@ -16,7 +16,7 @@ const escapeHTML = value => String(value).replace(/[&<>"']/g, char => ({'&':'&am
 let matches = [];
 function renderMatches(day = 'all') {
   const shown = matches.filter(match => day === 'all' || match.day === day);
-  document.querySelector('#match-list').innerHTML = shown.map(match => `<a class="match-row" href="reports/index.html?match=${encodeURIComponent(match.id)}" aria-label="${escapeHTML(match.publicLabel + '，' + match.title)}"><img class="match-icon" src="${escapeHTML(match.image)}" alt="${escapeHTML(match.hero)}" loading="lazy"><div><p class="match-meta">${escapeHTML(match.publicLabel)} <span> / ${escapeHTML(match.duration)}</span></p><h4>${escapeHTML(match.title)}</h4><p class="match-summary">${escapeHTML(match.summary)}</p></div><div class="match-result"><div class="score"><span class="${match.winner === '天辉' ? 'winner' : ''}">${match.radiant}</span><span class="colon">:</span><span class="${match.winner === '夜魇' ? 'winner' : ''}">${match.dire}</span></div><p class="result-caption">天辉 / 夜魇 · ${match.winner}胜</p></div><span class="row-arrow" aria-hidden="true">↗</span></a>`).join('');
+  document.querySelector('#match-list').innerHTML = shown.map(match => `<a class="match-row" href="${escapeHTML(match.href || ('reports/index.html?match='+encodeURIComponent(match.id)))}" aria-label="${escapeHTML(match.publicLabel + '，' + match.title)}"><img class="match-icon" src="${escapeHTML(match.image)}" alt="${escapeHTML(match.hero)}" loading="lazy"><div><p class="match-meta">${escapeHTML(match.publicLabel)} <span> / ${escapeHTML(match.duration)}</span></p><h4>${escapeHTML(match.title)}</h4><p class="match-summary">${escapeHTML(match.summary)}</p></div><div class="match-result"><div class="score"><span class="${match.winner === '天辉' ? 'winner' : ''}">${match.radiant}</span><span class="colon">:</span><span class="${match.winner === '夜魇' ? 'winner' : ''}">${match.dire}</span></div><p class="result-caption">天辉 / 夜魇 · ${match.winner}胜</p></div><span class="row-arrow" aria-hidden="true">↗</span></a>`).join('');
   document.querySelector('.archive-toolbar h3 span').textContent = shown.length;
 }
 fetch('content.json').then(response => {
@@ -76,7 +76,7 @@ function updateMembers() {
     if(!card.hidden) shown++;
     memberBoard.appendChild(card);
   });
-  document.querySelector('#members-count').textContent = query ? `找到 ${shown} 位玩家` : `${memberCards.length}位玩家 · 点击一行，展开各号段位与英雄依据`;
+  document.querySelector('#members-count').textContent = query ? `找到 ${shown} 位玩家` : `${memberCards.length}位成员 · 点击一行，展开各号段位与英雄依据`;
   document.querySelector('.members-empty').hidden = shown !== 0;
 }
 memberSearch.addEventListener('input',updateMembers);
