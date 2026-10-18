@@ -1,0 +1,38 @@
+{
+  "issues": [
+    {
+      "id": "2026-W42",
+      "title": "10月12日—18日 · 本周战斗统计与锐评",
+      "timezone": "Asia/Shanghai",
+      "start_inclusive": "2026-10-12T00:00:00+08:00",
+      "end_exclusive": "2026-10-18T21:00:00+08:00",
+      "statistics_unit": "account",
+      "owners": 20,
+      "accounts": 28,
+      "unique_matches": 158,
+      "account_appearances": 316,
+      "wins": 146,
+      "losses": 170,
+      "appearance_win_rate": 0.4620253164556962,
+      "ranked_matches": 141,
+      "unranked_matches": 17,
+      "excluded_inhouse": 10,
+      "details": "/weekly/2026-10-12/",
+      "analysis": "/weekly/2026-10-12/sharp/",
+      "share_image": "/weekly/2026-10-12/share/kapio-weekly-2026-10-12-18.jpg",
+      "editorial_images": [
+        "/weekly/2026-10-12/share/roast-01-members.jpg",
+        "/weekly/2026-10-12/share/roast-02-members.jpg",
+        "/weekly/2026-10-12/share/roast-03-party.jpg",
+        "/weekly/2026-10-12/share/roast-04-play-week.jpg"
+      ],
+      "editorial_zip": "/weekly/2026-10-12/share/kapio-weekly-roast-4-images.zip",
+      "notes": [
+        "归属人仅作账号分组，战绩按账号独立计算",
+        "组队未知不当单排",
+        "无公开样本不等于未游玩",
+        "本期排除对黑"
+      ]
+    }
+  ]
+}
